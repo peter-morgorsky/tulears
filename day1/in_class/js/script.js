@@ -18,6 +18,7 @@ hero.style.backgroundColor = 'purple'
 const paragraph = document.getElementById('paragraph')
 paragraph.style.letterSpacing = '10px'
 
-const theColor = prompt('Введите цвет')
-console.log(typeof(theColor));
-hero.style.backgroundColor = theColor
+
+// const theColor = prompt('Введите цвет')
+// console.log(typeof(theColor));
+// hero.style.backgroundColor = theColor
